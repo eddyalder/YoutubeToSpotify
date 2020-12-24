@@ -2,7 +2,10 @@ import pafy, spotipy, configparser, json
 from spotipy.oauth2 import SpotifyOAuth
 
 def getYouTitles():
-    pafy.set_api_key('AIzaSyBtVv9fcvx5cNW5Q1e5wMzFtvBPwC0DurA')
+    config = configparser.ConfigParser()
+    config.read('config.cfg')
+    YoutubeAPIKey = config.get('SPOTIFY','YOUTUBE_API_KEY')
+    pafy.set_api_key(YoutubeAPIKey)
     url = "https://www.youtube.com/playlist?list=PLESVm2hBvzZHFsfGYo6Q6eyXshzhBLTBK"
     playlist = pafy.get_playlist2(url)
     try:
