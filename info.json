@@ -1,1 +1,1272 @@
-{"href": "https://api.spotify.com/v1/users/eddy.alder/playlists?offset=0&limit=50", "items": [{"collaborative": false, "description": "", "external_urls": {"spotify": "https://open.spotify.com/playlist/1kynO5ixbvGr9pwQcAu16H"}, "href": "https://api.spotify.com/v1/playlists/1kynO5ixbvGr9pwQcAu16H", "id": "1kynO5ixbvGr9pwQcAu16H", "images": [{"height": null, "url": "https://i.scdn.co/image/ab67706c0000bebb00dda930cd52814ff8ac56ea", "width": null}], "name": "idek anymore", "owner": {"display_name": "Edward Alder", "external_urls": {"spotify": "https://open.spotify.com/user/eddy.alder"}, "href": "https://api.spotify.com/v1/users/eddy.alder", "id": "eddy.alder", "type": "user", "uri": "spotify:user:eddy.alder"}, "primary_color": null, "public": true, "snapshot_id": "NTgsZTA2OWQyNDRiMTJmOTZjZGUwZDk0NDg5NzlhNWMxOTJlNTRmNjlmMQ==", "tracks": {"href": "https://api.spotify.com/v1/playlists/1kynO5ixbvGr9pwQcAu16H/tracks", "total": 52}, "type": "playlist", "uri": "spotify:playlist:1kynO5ixbvGr9pwQcAu16H"}, {"collaborative": false, "description": "", "external_urls": {"spotify": "https://open.spotify.com/playlist/6nws6GK3W0q0yLeeKOjajI"}, "href": "https://api.spotify.com/v1/playlists/6nws6GK3W0q0yLeeKOjajI", "id": "6nws6GK3W0q0yLeeKOjajI", "images": [{"height": null, "url": "https://i.scdn.co/image/ab67706c0000bebb47bcc78ae9b0b5fd847cbbd9", "width": null}], "name": "I love my drum and bass", "owner": {"display_name": "Edward Alder", "external_urls": {"spotify": "https://open.spotify.com/user/eddy.alder"}, "href": "https://api.spotify.com/v1/users/eddy.alder", "id": "eddy.alder", "type": "user", "uri": "spotify:user:eddy.alder"}, "primary_color": null, "public": true, "snapshot_id": "ODIsODlkMDZhNzRjNWY4ZGI2NWFjMDNmNmZjZTg0ZmQ5OGUxNzNmMmVmMw==", "tracks": {"href": "https://api.spotify.com/v1/playlists/6nws6GK3W0q0yLeeKOjajI/tracks", "total": 74}, "type": "playlist", "uri": "spotify:playlist:6nws6GK3W0q0yLeeKOjajI"}, {"collaborative": false, "description": "", "external_urls": {"spotify": "https://open.spotify.com/playlist/1sHA12327eB2m8IwUgkvJT"}, "href": "https://api.spotify.com/v1/playlists/1sHA12327eB2m8IwUgkvJT", "id": "1sHA12327eB2m8IwUgkvJT", "images": [{"height": null, "url": "https://i.scdn.co/image/ab67706c0000bebb21cc20c2168490fe82d6461c", "width": null}], "name": "EDm", "owner": {"display_name": "Edward Alder", "external_urls": {"spotify": "https://open.spotify.com/user/eddy.alder"}, "href": "https://api.spotify.com/v1/users/eddy.alder", "id": "eddy.alder", "type": "user", "uri": "spotify:user:eddy.alder"}, "primary_color": null, "public": true, "snapshot_id": "MTc4LDRjZTg2MTU4YmJlOGUyOTBiZjBmNWI5ZTQ1ZmMyZTA5NmNmOGU1NGI=", "tracks": {"href": "https://api.spotify.com/v1/playlists/1sHA12327eB2m8IwUgkvJT/tracks", "total": 149}, "type": "playlist", "uri": "spotify:playlist:1sHA12327eB2m8IwUgkvJT"}, {"collaborative": false, "description": "", "external_urls": {"spotify": "https://open.spotify.com/playlist/1clLrtmDUjNDpu46wY4k6y"}, "href": "https://api.spotify.com/v1/playlists/1clLrtmDUjNDpu46wY4k6y", "id": "1clLrtmDUjNDpu46wY4k6y", "images": [{"height": null, "url": "https://i.scdn.co/image/ab67706c0000bebb07b554d37a15151b264edd6b", "width": null}], "name": "Vibe^2", "owner": {"display_name": "Edward Alder", "external_urls": {"spotify": "https://open.spotify.com/user/eddy.alder"}, "href": "https://api.spotify.com/v1/users/eddy.alder", "id": "eddy.alder", "type": "user", "uri": "spotify:user:eddy.alder"}, "primary_color": null, "public": true, "snapshot_id": "MTI2LDhkYzk4MWQyYjgxZGYxZWYyYzY2ZTg5ZjhiYTQ4NGE1MGE2ZTE5MGM=", "tracks": {"href": "https://api.spotify.com/v1/playlists/1clLrtmDUjNDpu46wY4k6y/tracks", "total": 100}, "type": "playlist", "uri": "spotify:playlist:1clLrtmDUjNDpu46wY4k6y"}, {"collaborative": false, "description": "", "external_urls": {"spotify": "https://open.spotify.com/playlist/1EwDOSxNAHhRp99b2sWt8q"}, "href": "https://api.spotify.com/v1/playlists/1EwDOSxNAHhRp99b2sWt8q", "id": "1EwDOSxNAHhRp99b2sWt8q", "images": [{"height": null, "url": "https://i.scdn.co/image/ab67706c0000bebb4df1df42bee9703def761259", "width": null}], "name": "vibe", "owner": {"display_name": "Edward Alder", "external_urls": {"spotify": "https://open.spotify.com/user/eddy.alder"}, "href": "https://api.spotify.com/v1/users/eddy.alder", "id": "eddy.alder", "type": "user", "uri": "spotify:user:eddy.alder"}, "primary_color": null, "public": true, "snapshot_id": "OTcsYzg1MjhkNGUxOTk1NmVkZTY4Mzc0OGEzOWZlYjQ4OGVlMDkyMjhkNA==", "tracks": {"href": "https://api.spotify.com/v1/playlists/1EwDOSxNAHhRp99b2sWt8q/tracks", "total": 84}, "type": "playlist", "uri": "spotify:playlist:1EwDOSxNAHhRp99b2sWt8q"}, {"collaborative": false, "description": "Geetar", "external_urls": {"spotify": "https://open.spotify.com/playlist/1fIpUM8d3HofW3JFocdSaU"}, "href": "https://api.spotify.com/v1/playlists/1fIpUM8d3HofW3JFocdSaU", "id": "1fIpUM8d3HofW3JFocdSaU", "images": [{"height": null, "url": "https://i.scdn.co/image/ab67706c0000bebbc41cf2250ac63e78054237bd", "width": null}], "name": "Geetar", "owner": {"display_name": "Edward Alder", "external_urls": {"spotify": "https://open.spotify.com/user/eddy.alder"}, "href": "https://api.spotify.com/v1/users/eddy.alder", "id": "eddy.alder", "type": "user", "uri": "spotify:user:eddy.alder"}, "primary_color": null, "public": true, "snapshot_id": "MjEsNDlmNzdiMjYyZGZmOWQ4Mjg1ZGQ4ZmM3MmE0ODdkOGY4OTRkMDk4OQ==", "tracks": {"href": "https://api.spotify.com/v1/playlists/1fIpUM8d3HofW3JFocdSaU/tracks", "total": 16}, "type": "playlist", "uri": "spotify:playlist:1fIpUM8d3HofW3JFocdSaU"}, {"collaborative": false, "description": "", "external_urls": {"spotify": "https://open.spotify.com/playlist/5W9mxA9KZt3Iduh0ItkiJj"}, "href": "https://api.spotify.com/v1/playlists/5W9mxA9KZt3Iduh0ItkiJj", "id": "5W9mxA9KZt3Iduh0ItkiJj", "images": [{"height": null, "url": "https://i.scdn.co/image/ab67706c0000bebb8e31a392fecee72ec64a8d8d", "width": null}], "name": "Grimy", "owner": {"display_name": "Edward Alder", "external_urls": {"spotify": "https://open.spotify.com/user/eddy.alder"}, "href": "https://api.spotify.com/v1/users/eddy.alder", "id": "eddy.alder", "type": "user", "uri": "spotify:user:eddy.alder"}, "primary_color": null, "public": true, "snapshot_id": "MTI2LDFjNTlhYmE2MzkwNzhjZjBiNjdkYjEzN2NlZWIwMTVkNmI4ZjRiNDg=", "tracks": {"href": "https://api.spotify.com/v1/playlists/5W9mxA9KZt3Iduh0ItkiJj/tracks", "total": 97}, "type": "playlist", "uri": "spotify:playlist:5W9mxA9KZt3Iduh0ItkiJj"}, {"collaborative": false, "description": "", "external_urls": {"spotify": "https://open.spotify.com/playlist/5jYCX5xainfMPQgFtXZ3aW"}, "href": "https://api.spotify.com/v1/playlists/5jYCX5xainfMPQgFtXZ3aW", "id": "5jYCX5xainfMPQgFtXZ3aW", "images": [{"height": null, "url": "https://i.scdn.co/image/ab67706c0000bebb21f2a08138c623de4af69c75", "width": null}], "name": "rap: the squeakquel", "owner": {"display_name": "Edward Alder", "external_urls": {"spotify": "https://open.spotify.com/user/eddy.alder"}, "href": "https://api.spotify.com/v1/users/eddy.alder", "id": "eddy.alder", "type": "user", "uri": "spotify:user:eddy.alder"}, "primary_color": null, "public": true, "snapshot_id": "NzcsZDgxOWVlNTI0YmQwYTgyMzViODFlNGI5ODI3MjRkYWY1NDdhM2YxMg==", "tracks": {"href": "https://api.spotify.com/v1/playlists/5jYCX5xainfMPQgFtXZ3aW/tracks", "total": 59}, "type": "playlist", "uri": "spotify:playlist:5jYCX5xainfMPQgFtXZ3aW"}, {"collaborative": false, "description": "it&#x27;s rap", "external_urls": {"spotify": "https://open.spotify.com/playlist/3rVelqCHWHOsWW7gaAt4ln"}, "href": "https://api.spotify.com/v1/playlists/3rVelqCHWHOsWW7gaAt4ln", "id": "3rVelqCHWHOsWW7gaAt4ln", "images": [{"height": null, "url": "https://i.scdn.co/image/ab67706c0000bebbd14ba7cc851142b94aa7aaea", "width": null}], "name": "Rap V1", "owner": {"display_name": "Edward Alder", "external_urls": {"spotify": "https://open.spotify.com/user/eddy.alder"}, "href": "https://api.spotify.com/v1/users/eddy.alder", "id": "eddy.alder", "type": "user", "uri": "spotify:user:eddy.alder"}, "primary_color": null, "public": true, "snapshot_id": "MTQzLGUxZWM2Y2IxMzNlZjdiNzUyZWRlMTdmYmM4NzAxZDFkZmQ5NWE0NGY=", "tracks": {"href": "https://api.spotify.com/v1/playlists/3rVelqCHWHOsWW7gaAt4ln/tracks", "total": 94}, "type": "playlist", "uri": "spotify:playlist:3rVelqCHWHOsWW7gaAt4ln"}, {"collaborative": false, "description": "", "external_urls": {"spotify": "https://open.spotify.com/playlist/0n7uDSozvrqybZbfwMw8Gp"}, "href": "https://api.spotify.com/v1/playlists/0n7uDSozvrqybZbfwMw8Gp", "id": "0n7uDSozvrqybZbfwMw8Gp", "images": [{"height": 640, "url": "https://mosaic.scdn.co/640/ab67616d0000b273582d56ce20fe0146ffa0e5cfab67616d0000b2738c33272a7c77042f5eb39d75ab67616d0000b27399581550ef9746ca582bb3ccab67616d0000b273ad1be56bc230ae0de1678722", "width": 640}, {"height": 300, "url": "https://mosaic.scdn.co/300/ab67616d0000b273582d56ce20fe0146ffa0e5cfab67616d0000b2738c33272a7c77042f5eb39d75ab67616d0000b27399581550ef9746ca582bb3ccab67616d0000b273ad1be56bc230ae0de1678722", "width": 300}, {"height": 60, "url": "https://mosaic.scdn.co/60/ab67616d0000b273582d56ce20fe0146ffa0e5cfab67616d0000b2738c33272a7c77042f5eb39d75ab67616d0000b27399581550ef9746ca582bb3ccab67616d0000b273ad1be56bc230ae0de1678722", "width": 60}], "name": "Chill", "owner": {"display_name": "thomasalder", "external_urls": {"spotify": "https://open.spotify.com/user/thomasalder"}, "href": "https://api.spotify.com/v1/users/thomasalder", "id": "thomasalder", "type": "user", "uri": "spotify:user:thomasalder"}, "primary_color": null, "public": true, "snapshot_id": "MjIzLDNlZTZhYzMyN2NhMThmMjMzODIzODM2YTA2OTQ5ODQ2MGI4MTQ2MmY=", "tracks": {"href": "https://api.spotify.com/v1/playlists/0n7uDSozvrqybZbfwMw8Gp/tracks", "total": 188}, "type": "playlist", "uri": "spotify:playlist:0n7uDSozvrqybZbfwMw8Gp"}, {"collaborative": false, "description": "", "external_urls": {"spotify": "https://open.spotify.com/playlist/5XGOJqF5K7uXPC4PH1uL3O"}, "href": "https://api.spotify.com/v1/playlists/5XGOJqF5K7uXPC4PH1uL3O", "id": "5XGOJqF5K7uXPC4PH1uL3O", "images": [{"height": 640, "url": "https://mosaic.scdn.co/640/ab67616d0000b27325b055377757b3cdd6f26b78ab67616d0000b2732a7db835b912dc5014bd37f4ab67616d0000b273969de80dfcad2d496da82410ab67616d0000b273d9194aa18fa4c9362b47464f", "width": 640}, {"height": 300, "url": "https://mosaic.scdn.co/300/ab67616d0000b27325b055377757b3cdd6f26b78ab67616d0000b2732a7db835b912dc5014bd37f4ab67616d0000b273969de80dfcad2d496da82410ab67616d0000b273d9194aa18fa4c9362b47464f", "width": 300}, {"height": 60, "url": "https://mosaic.scdn.co/60/ab67616d0000b27325b055377757b3cdd6f26b78ab67616d0000b2732a7db835b912dc5014bd37f4ab67616d0000b273969de80dfcad2d496da82410ab67616d0000b273d9194aa18fa4c9362b47464f", "width": 60}], "name": "Reunification", "owner": {"display_name": "thomasalder", "external_urls": {"spotify": "https://open.spotify.com/user/thomasalder"}, "href": "https://api.spotify.com/v1/users/thomasalder", "id": "thomasalder", "type": "user", "uri": "spotify:user:thomasalder"}, "primary_color": null, "public": true, "snapshot_id": "MTAyLGQ1ZDJkZTljYzViZmU0NjJiNTUwZjFkNjAwODk4YzQ0YTAxNjM5YmE=", "tracks": {"href": "https://api.spotify.com/v1/playlists/5XGOJqF5K7uXPC4PH1uL3O/tracks", "total": 87}, "type": "playlist", "uri": "spotify:playlist:5XGOJqF5K7uXPC4PH1uL3O"}], "limit": 50, "next": null, "offset": 0, "previous": null, "total": 11}
+{
+    "href": "https://api.spotify.com/v1/users/eddy.alder/playlists?offset=0&limit=50",
+    "items": [
+        {
+            "collaborative": false,
+            "description": "The songs you loved most this year, all wrapped up.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1EMfvNfSaNKIHJ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EMfvNfSaNKIHJ",
+            "id": "37i9dQZF1EMfvNfSaNKIHJ",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://lineup-images.scdn.co/wrapped-2020-top100_LARGE-en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Top Songs 2020",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjY3NzQ2MTYsMDAwMDAwMDBiYTFmMzY2ODUyNDQyZDUwMmU4NGM5NjRhMjlhNWI4OQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EMfvNfSaNKIHJ/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1EMfvNfSaNKIHJ"
+        },
+        {
+            "collaborative": false,
+            "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcF5tRNPYo7sg"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcF5tRNPYo7sg",
+            "id": "37i9dQZEVXcF5tRNPYo7sg",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://newjams-images.scdn.co/v3/discover-weekly/Ud8VPv1o44CTOl7Itg_2wcdZGGsvneK9dd9OmLz7Xfl5Qns5s3eK_K1R8-sjZg8h1VtMheps2G0GsIM1G0A1sqk5fUGyvrK0IJLEL9vAZSk=/NjI6NjA6MDFUNjAtMTAtMQ==/default",
+                    "width": null
+                }
+            ],
+            "name": "Discover Weekly",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjY4MDg0ODAsMDAwMDAwMDBhMTJlZjI2ZWFhZWMxMWZjNTBiODk3NGFlZjBmMWVjNg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcF5tRNPYo7sg/tracks",
+                "total": 30
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZEVXcF5tRNPYo7sg"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1kynO5ixbvGr9pwQcAu16H"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1kynO5ixbvGr9pwQcAu16H",
+            "id": "1kynO5ixbvGr9pwQcAu16H",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb00dda930cd52814ff8ac56ea",
+                    "width": null
+                }
+            ],
+            "name": "idek anymore",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTgsZTA2OWQyNDRiMTJmOTZjZGUwZDk0NDg5NzlhNWMxOTJlNTRmNjlmMQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1kynO5ixbvGr9pwQcAu16H/tracks",
+                "total": 52
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1kynO5ixbvGr9pwQcAu16H"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6nws6GK3W0q0yLeeKOjajI"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6nws6GK3W0q0yLeeKOjajI",
+            "id": "6nws6GK3W0q0yLeeKOjajI",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb47bcc78ae9b0b5fd847cbbd9",
+                    "width": null
+                }
+            ],
+            "name": "I love my drum and bass",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "ODIsODlkMDZhNzRjNWY4ZGI2NWFjMDNmNmZjZTg0ZmQ5OGUxNzNmMmVmMw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6nws6GK3W0q0yLeeKOjajI/tracks",
+                "total": 74
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6nws6GK3W0q0yLeeKOjajI"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1sHA12327eB2m8IwUgkvJT"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1sHA12327eB2m8IwUgkvJT",
+            "id": "1sHA12327eB2m8IwUgkvJT",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb21cc20c2168490fe82d6461c",
+                    "width": null
+                }
+            ],
+            "name": "EDm",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTc4LDRjZTg2MTU4YmJlOGUyOTBiZjBmNWI5ZTQ1ZmMyZTA5NmNmOGU1NGI=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1sHA12327eB2m8IwUgkvJT/tracks",
+                "total": 149
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1sHA12327eB2m8IwUgkvJT"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1clLrtmDUjNDpu46wY4k6y"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1clLrtmDUjNDpu46wY4k6y",
+            "id": "1clLrtmDUjNDpu46wY4k6y",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb07b554d37a15151b264edd6b",
+                    "width": null
+                }
+            ],
+            "name": "Vibe^2",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTI2LDhkYzk4MWQyYjgxZGYxZWYyYzY2ZTg5ZjhiYTQ4NGE1MGE2ZTE5MGM=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1clLrtmDUjNDpu46wY4k6y/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1clLrtmDUjNDpu46wY4k6y"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1EwDOSxNAHhRp99b2sWt8q"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1EwDOSxNAHhRp99b2sWt8q",
+            "id": "1EwDOSxNAHhRp99b2sWt8q",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb4df1df42bee9703def761259",
+                    "width": null
+                }
+            ],
+            "name": "vibe",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OTcsYzg1MjhkNGUxOTk1NmVkZTY4Mzc0OGEzOWZlYjQ4OGVlMDkyMjhkNA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1EwDOSxNAHhRp99b2sWt8q/tracks",
+                "total": 84
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1EwDOSxNAHhRp99b2sWt8q"
+        },
+        {
+            "collaborative": false,
+            "description": "Geetar",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1fIpUM8d3HofW3JFocdSaU"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1fIpUM8d3HofW3JFocdSaU",
+            "id": "1fIpUM8d3HofW3JFocdSaU",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbc41cf2250ac63e78054237bd",
+                    "width": null
+                }
+            ],
+            "name": "Geetar",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjEsNDlmNzdiMjYyZGZmOWQ4Mjg1ZGQ4ZmM3MmE0ODdkOGY4OTRkMDk4OQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1fIpUM8d3HofW3JFocdSaU/tracks",
+                "total": 16
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1fIpUM8d3HofW3JFocdSaU"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4QiszFnHyuODdmNWPIhM2V"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4QiszFnHyuODdmNWPIhM2V",
+            "id": "4QiszFnHyuODdmNWPIhM2V",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27339c2bb49427b90c6ab9b2a5dab67616d0000b2737b9639babbe96e25071ec1d4ab67616d0000b273e9f49a29f00d42d7857794a5ab67616d0000b273fc2101e6889d6ce9025f85f2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27339c2bb49427b90c6ab9b2a5dab67616d0000b2737b9639babbe96e25071ec1d4ab67616d0000b273e9f49a29f00d42d7857794a5ab67616d0000b273fc2101e6889d6ce9025f85f2",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27339c2bb49427b90c6ab9b2a5dab67616d0000b2737b9639babbe96e25071ec1d4ab67616d0000b273e9f49a29f00d42d7857794a5ab67616d0000b273fc2101e6889d6ce9025f85f2",
+                    "width": 60
+                }
+            ],
+            "name": "Vocal",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MzIsNmVkNTMzNzg4ZmY2YmFhZDk5NDJmYmM1ZGM1YTM0NzZjMjc4MjkzZQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4QiszFnHyuODdmNWPIhM2V/tracks",
+                "total": 27
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4QiszFnHyuODdmNWPIhM2V"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5W9mxA9KZt3Iduh0ItkiJj"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5W9mxA9KZt3Iduh0ItkiJj",
+            "id": "5W9mxA9KZt3Iduh0ItkiJj",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb8e31a392fecee72ec64a8d8d",
+                    "width": null
+                }
+            ],
+            "name": "Grimy",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTI2LDFjNTlhYmE2MzkwNzhjZjBiNjdkYjEzN2NlZWIwMTVkNmI4ZjRiNDg=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5W9mxA9KZt3Iduh0ItkiJj/tracks",
+                "total": 97
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5W9mxA9KZt3Iduh0ItkiJj"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5h1c3syeSIrfVAX8l9LdCL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5h1c3syeSIrfVAX8l9LdCL",
+            "id": "5h1c3syeSIrfVAX8l9LdCL",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273607b3afe2c7c11f7ce30a358ab67616d0000b273701aa7918f55c97c12efde99ab67616d0000b27381a6a2cafab2e7a4066b5eecab67616d0000b2739ccb8cfa9cf5c3d058f83e91",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273607b3afe2c7c11f7ce30a358ab67616d0000b273701aa7918f55c97c12efde99ab67616d0000b27381a6a2cafab2e7a4066b5eecab67616d0000b2739ccb8cfa9cf5c3d058f83e91",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273607b3afe2c7c11f7ce30a358ab67616d0000b273701aa7918f55c97c12efde99ab67616d0000b27381a6a2cafab2e7a4066b5eecab67616d0000b2739ccb8cfa9cf5c3d058f83e91",
+                    "width": 60
+                }
+            ],
+            "name": "RIP",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NDIsY2NmNzA4MWZmNTA5Njk4ZTFkM2M0MDFiNTcxMzJlYTdjN2VmMWMxNg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5h1c3syeSIrfVAX8l9LdCL/tracks",
+                "total": 30
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5h1c3syeSIrfVAX8l9LdCL"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/01YFxrtAt5ARSOCGFyujac"
+            },
+            "href": "https://api.spotify.com/v1/playlists/01YFxrtAt5ARSOCGFyujac",
+            "id": "01YFxrtAt5ARSOCGFyujac",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb99afabb9c31b88990d5d5c15",
+                    "width": null
+                }
+            ],
+            "name": "Calm",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTIwLGQ1MzgyMWI5MDc0OGJlYjRhZGY0MzU4ZDVhNmRlMmRlMzc2MGU3M2M=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/01YFxrtAt5ARSOCGFyujac/tracks",
+                "total": 87
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:01YFxrtAt5ARSOCGFyujac"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5jYCX5xainfMPQgFtXZ3aW"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5jYCX5xainfMPQgFtXZ3aW",
+            "id": "5jYCX5xainfMPQgFtXZ3aW",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb21f2a08138c623de4af69c75",
+                    "width": null
+                }
+            ],
+            "name": "rap: the squeakquel",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NzcsZDgxOWVlNTI0YmQwYTgyMzViODFlNGI5ODI3MjRkYWY1NDdhM2YxMg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5jYCX5xainfMPQgFtXZ3aW/tracks",
+                "total": 59
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5jYCX5xainfMPQgFtXZ3aW"
+        },
+        {
+            "collaborative": false,
+            "description": "it&#x27;s rap",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3rVelqCHWHOsWW7gaAt4ln"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3rVelqCHWHOsWW7gaAt4ln",
+            "id": "3rVelqCHWHOsWW7gaAt4ln",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbd14ba7cc851142b94aa7aaea",
+                    "width": null
+                }
+            ],
+            "name": "Rap V1",
+            "owner": {
+                "display_name": "Edward Alder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/eddy.alder"
+                },
+                "href": "https://api.spotify.com/v1/users/eddy.alder",
+                "id": "eddy.alder",
+                "type": "user",
+                "uri": "spotify:user:eddy.alder"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTQzLGUxZWM2Y2IxMzNlZjdiNzUyZWRlMTdmYmM4NzAxZDFkZmQ5NWE0NGY=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3rVelqCHWHOsWW7gaAt4ln/tracks",
+                "total": 94
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3rVelqCHWHOsWW7gaAt4ln"
+        },
+        {
+            "collaborative": false,
+            "description": "The songs you loved most this year, all wrapped up.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1Et8Qg0x0cUNPr"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Et8Qg0x0cUNPr",
+            "id": "37i9dQZF1Et8Qg0x0cUNPr",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://lineup-images.scdn.co/your-top-songs-2019_LARGE-en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Top Songs 2019",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjYyNjk3MDUsMDAwMDAwMDA0MmVlYzQxYzI1YjYwOThiNmRjNWNhOGU4ZjQyMmU4MA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Et8Qg0x0cUNPr/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1Et8Qg0x0cUNPr"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/51aJyhQW7BxaIKRtrJxCHS"
+            },
+            "href": "https://api.spotify.com/v1/playlists/51aJyhQW7BxaIKRtrJxCHS",
+            "id": "51aJyhQW7BxaIKRtrJxCHS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273a7edcd126967425fb3d535c4ab67616d0000b273d88391a99199fa59d4d5de56ab67616d0000b273da808735ea2fe7ffb986bab8ab67616d0000b273f8e4faef5337956c2027e4c4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273a7edcd126967425fb3d535c4ab67616d0000b273d88391a99199fa59d4d5de56ab67616d0000b273da808735ea2fe7ffb986bab8ab67616d0000b273f8e4faef5337956c2027e4c4",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273a7edcd126967425fb3d535c4ab67616d0000b273d88391a99199fa59d4d5de56ab67616d0000b273da808735ea2fe7ffb986bab8ab67616d0000b273f8e4faef5337956c2027e4c4",
+                    "width": 60
+                }
+            ],
+            "name": "RocketLeague x Monstercat",
+            "owner": {
+                "display_name": "Kyutocatz",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/xeg2osizzbeyzdsu8ll24isuj"
+                },
+                "href": "https://api.spotify.com/v1/users/xeg2osizzbeyzdsu8ll24isuj",
+                "id": "xeg2osizzbeyzdsu8ll24isuj",
+                "type": "user",
+                "uri": "spotify:user:xeg2osizzbeyzdsu8ll24isuj"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NDksYzMwYjkwNTgzYTJjY2M3Y2VjY2U3NTVmYWEzYzEzODgxMDJlNjI2YQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/51aJyhQW7BxaIKRtrJxCHS/tracks",
+                "total": 99
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:51aJyhQW7BxaIKRtrJxCHS"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3XDgr3h896QZocVo0iJYIE"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3XDgr3h896QZocVo0iJYIE",
+            "id": "3XDgr3h896QZocVo0iJYIE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2736f099db44f70466b4ec91d16ab67616d0000b273acf9c94f73fede70cca51d5eab67616d0000b273b08b996d08001270adc8b555ab67616d0000b273d92c2e984886d605ed5749b2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2736f099db44f70466b4ec91d16ab67616d0000b273acf9c94f73fede70cca51d5eab67616d0000b273b08b996d08001270adc8b555ab67616d0000b273d92c2e984886d605ed5749b2",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2736f099db44f70466b4ec91d16ab67616d0000b273acf9c94f73fede70cca51d5eab67616d0000b273b08b996d08001270adc8b555ab67616d0000b273d92c2e984886d605ed5749b2",
+                    "width": 60
+                }
+            ],
+            "name": "Aw shit here we go again.",
+            "owner": {
+                "display_name": "natalie_j_booth",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/natalie_j_booth"
+                },
+                "href": "https://api.spotify.com/v1/users/natalie_j_booth",
+                "id": "natalie_j_booth",
+                "type": "user",
+                "uri": "spotify:user:natalie_j_booth"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "Mjk4LDYyOTJhZjcxY2M2ZTBkMGNmNWM1MWRhMjhlN2ZlZTIxYjM3M2E2NmM=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3XDgr3h896QZocVo0iJYIE/tracks",
+                "total": 234
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3XDgr3h896QZocVo0iJYIE"
+        },
+        {
+            "collaborative": false,
+            "description": "The official FIFA 20 Soundtrack is now here. For the complete list of songs in the game - check <a href=\"http://x.ea.com/60103\">http://x.ea.com/60103</a>.   FIFA 20 will be available worldwide on September 27, 2019 for PlayStation® 4, Xbox One, and PC. ",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0rkxErbruAmcxwdLL6ZCz8"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0rkxErbruAmcxwdLL6ZCz8",
+            "id": "0rkxErbruAmcxwdLL6ZCz8",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb16632d91f777ef166c3759cc",
+                    "width": null
+                }
+            ],
+            "name": "FIFA 20 Soundtrack",
+            "owner": {
+                "display_name": "EA SPORTS FIFA",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/easportsaudio"
+                },
+                "href": "https://api.spotify.com/v1/users/easportsaudio",
+                "id": "easportsaudio",
+                "type": "user",
+                "uri": "spotify:user:easportsaudio"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NDcsNDMwZDNjODYwZjJjNmRiMWNhMTJmYmFhZTc0MjRhMWViZDlkZTYwMA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0rkxErbruAmcxwdLL6ZCz8/tracks",
+                "total": 41
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0rkxErbruAmcxwdLL6ZCz8"
+        },
+        {
+            "collaborative": false,
+            "description": "The best songs on FIFA",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2cuBI4NTKRyIpx2duqnvdB"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2cuBI4NTKRyIpx2duqnvdB",
+            "id": "2cuBI4NTKRyIpx2duqnvdB",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbc9eb153338be05cb42025a1b",
+                    "width": null
+                }
+            ],
+            "name": "FIFA 15 - 21",
+            "owner": {
+                "display_name": "Kevin Darneviel",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/1111020138"
+                },
+                "href": "https://api.spotify.com/v1/users/1111020138",
+                "id": "1111020138",
+                "type": "user",
+                "uri": "spotify:user:1111020138"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTkxLDkyNmM4Y2ZkNzc3MTkxM2NjMjZiNDk3ZjgzMjk3NGMzMjhkNGZkNGY=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2cuBI4NTKRyIpx2duqnvdB/tracks",
+                "total": 176
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2cuBI4NTKRyIpx2duqnvdB"
+        },
+        {
+            "collaborative": false,
+            "description": "This is the best of today's true alternative rock scene.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXa6YOhGMjjgx"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa6YOhGMjjgx",
+            "id": "37i9dQZF1DXa6YOhGMjjgx",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f00000003632f472ce040fb9bd7ee1be7",
+                    "width": null
+                }
+            ],
+            "name": "Totally Alt",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYwODE1NDIzMCwwMDAwMDBkMDAwMDAwMTc2NmQ3NjJkMmUwMDAwMDE2ZDE1MGViNTMx",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa6YOhGMjjgx/tracks",
+                "total": 150
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DXa6YOhGMjjgx"
+        },
+        {
+            "collaborative": false,
+            "description": "<a href=\"spotify:genre:space:electronica_chill\">Hypnotic electronic</a> for studies and a relax.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXLeA8Omikj7"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXLeA8Omikj7",
+            "id": "37i9dQZF1DWXLeA8Omikj7",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f000000031df043181e0a5b20707ce3a9",
+                    "width": null
+                }
+            ],
+            "name": "Brain Food",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYwOTExOTU4MiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXLeA8Omikj7/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DWXLeA8Omikj7"
+        },
+        {
+            "collaborative": false,
+            "description": "The official FIFA 19 Soundtrack is now here! For more on the game, the complete soundtrack line-up, and all things music including a Hans Zimmer score and music artists FUT kits, click <a href=\"http://x.ea.com/49445\">here.</a>",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5wTJTZkGb30JuYYfz7vbDL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5wTJTZkGb30JuYYfz7vbDL",
+            "id": "5wTJTZkGb30JuYYfz7vbDL",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbbeaaeef366f80cfd28f2e226",
+                    "width": null
+                }
+            ],
+            "name": "FIFA 19 Soundtrack",
+            "owner": {
+                "display_name": "EA SPORTS FIFA",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/easportsaudio"
+                },
+                "href": "https://api.spotify.com/v1/users/easportsaudio",
+                "id": "easportsaudio",
+                "type": "user",
+                "uri": "spotify:user:easportsaudio"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NjMsN2EyMmEzNjhjNzY4OWIwNTM5ZDZhZTE4NTEzMjVjNjQ4ODE3MWE3Ng==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5wTJTZkGb30JuYYfz7vbDL/tracks",
+                "total": 44
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5wTJTZkGb30JuYYfz7vbDL"
+        },
+        {
+            "collaborative": false,
+            "description": "Hit the road to the soundtrack of these seventies classics.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWWiDhnQ2IIru"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWiDhnQ2IIru",
+            "id": "37i9dQZF1DWWiDhnQ2IIru",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f000000031b84822d2ae33438903454df",
+                    "width": null
+                }
+            ],
+            "name": "70s Road Trip",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYwOTExOTU4MiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWiDhnQ2IIru/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DWWiDhnQ2IIru"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2I2fSbqVzeONgVvvmhpBTY"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2I2fSbqVzeONgVvvmhpBTY",
+            "id": "2I2fSbqVzeONgVvvmhpBTY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27305c5be85b64eaff732f7cb0bab67616d0000b2731be40e44db112e123e5e8b51ab67616d0000b2732af30c881bb23cfb82a8cf99ab67616d0000b273d5fccf9ce08b6a1e7d12a222",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27305c5be85b64eaff732f7cb0bab67616d0000b2731be40e44db112e123e5e8b51ab67616d0000b2732af30c881bb23cfb82a8cf99ab67616d0000b273d5fccf9ce08b6a1e7d12a222",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27305c5be85b64eaff732f7cb0bab67616d0000b2731be40e44db112e123e5e8b51ab67616d0000b2732af30c881bb23cfb82a8cf99ab67616d0000b273d5fccf9ce08b6a1e7d12a222",
+                    "width": 60
+                }
+            ],
+            "name": "Jams ",
+            "owner": {
+                "display_name": "brehnheil",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/brehnheil"
+                },
+                "href": "https://api.spotify.com/v1/users/brehnheil",
+                "id": "brehnheil",
+                "type": "user",
+                "uri": "spotify:user:brehnheil"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NTQsMDg2Y2M2OGZjNDY2M2JlM2JhYmRjYzczYjAxMTRlOGMyMzVlZTU5OQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2I2fSbqVzeONgVvvmhpBTY/tracks",
+                "total": 46
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2I2fSbqVzeONgVvvmhpBTY"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5evaAGHUzmA7Md7G1fgbpT"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5evaAGHUzmA7Md7G1fgbpT",
+            "id": "5evaAGHUzmA7Md7G1fgbpT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273280a72fdd9bd502bcba6ada8ab67616d0000b27333a6b45fa8354efe37633964ab67616d0000b273cc6240412c50b7c5a583ffebab67616d0000b273dbf3c10406ac999c39bf4a97",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273280a72fdd9bd502bcba6ada8ab67616d0000b27333a6b45fa8354efe37633964ab67616d0000b273cc6240412c50b7c5a583ffebab67616d0000b273dbf3c10406ac999c39bf4a97",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273280a72fdd9bd502bcba6ada8ab67616d0000b27333a6b45fa8354efe37633964ab67616d0000b273cc6240412c50b7c5a583ffebab67616d0000b273dbf3c10406ac999c39bf4a97",
+                    "width": 60
+                }
+            ],
+            "name": "in(dying)",
+            "owner": {
+                "display_name": "kateisgreato8",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/kateisgreato8"
+                },
+                "href": "https://api.spotify.com/v1/users/kateisgreato8",
+                "id": "kateisgreato8",
+                "type": "user",
+                "uri": "spotify:user:kateisgreato8"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTEyLGZjMWU2YzJlZDlhNDlkMDVlMjk1NDVkZmRlZTY0ZTBmNDU2MGIyODU=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5evaAGHUzmA7Md7G1fgbpT/tracks",
+                "total": 40
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5evaAGHUzmA7Md7G1fgbpT"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6cgLtzcAQjLfpDp6X7Wup2"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6cgLtzcAQjLfpDp6X7Wup2",
+            "id": "6cgLtzcAQjLfpDp6X7Wup2",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27301ff5212ec32ced8d1b4baf9ab67616d0000b2733138f891f3075c9c5d944037ab67616d0000b2739039c70e23f1261d5ccf275eab67616d0000b273e4f13cd87b3b1ead6735a520",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27301ff5212ec32ced8d1b4baf9ab67616d0000b2733138f891f3075c9c5d944037ab67616d0000b2739039c70e23f1261d5ccf275eab67616d0000b273e4f13cd87b3b1ead6735a520",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27301ff5212ec32ced8d1b4baf9ab67616d0000b2733138f891f3075c9c5d944037ab67616d0000b2739039c70e23f1261d5ccf275eab67616d0000b273e4f13cd87b3b1ead6735a520",
+                    "width": 60
+                }
+            ],
+            "name": "🚗💨💨",
+            "owner": {
+                "display_name": "Leo Kamgar",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/leo_kamgar"
+                },
+                "href": "https://api.spotify.com/v1/users/leo_kamgar",
+                "id": "leo_kamgar",
+                "type": "user",
+                "uri": "spotify:user:leo_kamgar"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTksNzk4ODczMDIyNjJmNDdlZGQxNDQwYTNmZGYxN2QzMGM0ZjA5ZjA0Yw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6cgLtzcAQjLfpDp6X7Wup2/tracks",
+                "total": 17
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6cgLtzcAQjLfpDp6X7Wup2"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6UMywIbjzn56qwkaYmzRYv"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6UMywIbjzn56qwkaYmzRYv",
+            "id": "6UMywIbjzn56qwkaYmzRYv",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbfe0a2d59eb72a1e477c1c0cb",
+                    "width": null
+                }
+            ],
+            "name": "Tea with the Queen",
+            "owner": {
+                "display_name": "thomasalder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/thomasalder"
+                },
+                "href": "https://api.spotify.com/v1/users/thomasalder",
+                "id": "thomasalder",
+                "type": "user",
+                "uri": "spotify:user:thomasalder"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NjUsZDA5YTBmNGFlMjJkMTRmOGE3Yzk2OTYzYjIwZDAxODk1NmY2OGVlZA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6UMywIbjzn56qwkaYmzRYv/tracks",
+                "total": 52
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6UMywIbjzn56qwkaYmzRYv"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0n7uDSozvrqybZbfwMw8Gp"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0n7uDSozvrqybZbfwMw8Gp",
+            "id": "0n7uDSozvrqybZbfwMw8Gp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273582d56ce20fe0146ffa0e5cfab67616d0000b2738c33272a7c77042f5eb39d75ab67616d0000b27399581550ef9746ca582bb3ccab67616d0000b273ad1be56bc230ae0de1678722",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273582d56ce20fe0146ffa0e5cfab67616d0000b2738c33272a7c77042f5eb39d75ab67616d0000b27399581550ef9746ca582bb3ccab67616d0000b273ad1be56bc230ae0de1678722",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273582d56ce20fe0146ffa0e5cfab67616d0000b2738c33272a7c77042f5eb39d75ab67616d0000b27399581550ef9746ca582bb3ccab67616d0000b273ad1be56bc230ae0de1678722",
+                    "width": 60
+                }
+            ],
+            "name": "Chill",
+            "owner": {
+                "display_name": "thomasalder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/thomasalder"
+                },
+                "href": "https://api.spotify.com/v1/users/thomasalder",
+                "id": "thomasalder",
+                "type": "user",
+                "uri": "spotify:user:thomasalder"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjIzLDNlZTZhYzMyN2NhMThmMjMzODIzODM2YTA2OTQ5ODQ2MGI4MTQ2MmY=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0n7uDSozvrqybZbfwMw8Gp/tracks",
+                "total": 188
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0n7uDSozvrqybZbfwMw8Gp"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/62kqo7BM5Mb9EXkDaDNJfL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/62kqo7BM5Mb9EXkDaDNJfL",
+            "id": "62kqo7BM5Mb9EXkDaDNJfL",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2730b4df34612f851b639959f9aab67616d0000b2732dc817144c8081281f77508dab67616d0000b2736c730cf2377784864ddec621ab67616d0000b273f5d57bf13a78d02ade7647f8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2730b4df34612f851b639959f9aab67616d0000b2732dc817144c8081281f77508dab67616d0000b2736c730cf2377784864ddec621ab67616d0000b273f5d57bf13a78d02ade7647f8",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2730b4df34612f851b639959f9aab67616d0000b2732dc817144c8081281f77508dab67616d0000b2736c730cf2377784864ddec621ab67616d0000b273f5d57bf13a78d02ade7647f8",
+                    "width": 60
+                }
+            ],
+            "name": "Idk lol",
+            "owner": {
+                "display_name": "thomasalder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/thomasalder"
+                },
+                "href": "https://api.spotify.com/v1/users/thomasalder",
+                "id": "thomasalder",
+                "type": "user",
+                "uri": "spotify:user:thomasalder"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTEsZWNlNGE1NWI3NmY2YjAyZTkwMWUwZDMwMmUxMGRjMmRlMDk4MDAwOA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/62kqo7BM5Mb9EXkDaDNJfL/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:62kqo7BM5Mb9EXkDaDNJfL"
+        },
+        {
+            "collaborative": false,
+            "description": "9/13/17 - The official FIFA 18 Soundtrack has finally arrived! For a complete list of songs and more on all things FIFA music, click <a href=\"http://x.ea.com/35776\">here</a>. FIFA 18 is available now. Happy listening!",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1Vj65Ch6pO2mnZbgm2dn07"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1Vj65Ch6pO2mnZbgm2dn07",
+            "id": "1Vj65Ch6pO2mnZbgm2dn07",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbce983e47e10169ddf13475d2",
+                    "width": null
+                }
+            ],
+            "name": "FIFA 18 Soundtrack",
+            "owner": {
+                "display_name": "EA SPORTS FIFA",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/easportsaudio"
+                },
+                "href": "https://api.spotify.com/v1/users/easportsaudio",
+                "id": "easportsaudio",
+                "type": "user",
+                "uri": "spotify:user:easportsaudio"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NjUsM2E1OThmYzM4YzkwNTNjYzMxZGRiNTFiNTBjYzU2MzJhZmEwNTA0MA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1Vj65Ch6pO2mnZbgm2dn07/tracks",
+                "total": 45
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1Vj65Ch6pO2mnZbgm2dn07"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4mY6EGnTxsuqfKBlnvtJXl"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4mY6EGnTxsuqfKBlnvtJXl",
+            "id": "4mY6EGnTxsuqfKBlnvtJXl",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27399a8ab6da9d593939302828aab67616d0000b273af7525e55333b110ff0f4e95ab67616d0000b273b497e0b2e0c08b470ee70648ab67616d0000b273e71dd15fc5bdefd5bff70452",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27399a8ab6da9d593939302828aab67616d0000b273af7525e55333b110ff0f4e95ab67616d0000b273b497e0b2e0c08b470ee70648ab67616d0000b273e71dd15fc5bdefd5bff70452",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27399a8ab6da9d593939302828aab67616d0000b273af7525e55333b110ff0f4e95ab67616d0000b273b497e0b2e0c08b470ee70648ab67616d0000b273e71dd15fc5bdefd5bff70452",
+                    "width": 60
+                }
+            ],
+            "name": "Rap",
+            "owner": {
+                "display_name": "brehnheil",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/brehnheil"
+                },
+                "href": "https://api.spotify.com/v1/users/brehnheil",
+                "id": "brehnheil",
+                "type": "user",
+                "uri": "spotify:user:brehnheil"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjUzLDNjOTlhZTk2MzY5ZTM4OWY0OTlhNmFhZjJlMjk4NzE5ZjM2ZWFhZTI=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4mY6EGnTxsuqfKBlnvtJXl/tracks",
+                "total": 130
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4mY6EGnTxsuqfKBlnvtJXl"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5XGOJqF5K7uXPC4PH1uL3O"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5XGOJqF5K7uXPC4PH1uL3O",
+            "id": "5XGOJqF5K7uXPC4PH1uL3O",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27325b055377757b3cdd6f26b78ab67616d0000b2732a7db835b912dc5014bd37f4ab67616d0000b273969de80dfcad2d496da82410ab67616d0000b273d9194aa18fa4c9362b47464f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27325b055377757b3cdd6f26b78ab67616d0000b2732a7db835b912dc5014bd37f4ab67616d0000b273969de80dfcad2d496da82410ab67616d0000b273d9194aa18fa4c9362b47464f",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27325b055377757b3cdd6f26b78ab67616d0000b2732a7db835b912dc5014bd37f4ab67616d0000b273969de80dfcad2d496da82410ab67616d0000b273d9194aa18fa4c9362b47464f",
+                    "width": 60
+                }
+            ],
+            "name": "Reunification",
+            "owner": {
+                "display_name": "thomasalder",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/thomasalder"
+                },
+                "href": "https://api.spotify.com/v1/users/thomasalder",
+                "id": "thomasalder",
+                "type": "user",
+                "uri": "spotify:user:thomasalder"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTAyLGQ1ZDJkZTljYzViZmU0NjJiNTUwZjFkNjAwODk4YzQ0YTAxNjM5YmE=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5XGOJqF5K7uXPC4PH1uL3O/tracks",
+                "total": 87
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5XGOJqF5K7uXPC4PH1uL3O"
+        }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 32
+}

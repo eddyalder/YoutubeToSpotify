@@ -1,3 +1,8 @@
 *.cfg
 .cache-eddy.alder
 testing.py
+__pycache__
+build
+dist
+YoutubeToSpotify.spec
+info.json

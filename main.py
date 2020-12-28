@@ -125,4 +125,9 @@ while True:
     else:
         print("Invalid choice")
     
+print()
 createSpotPlaylist(playlistURL, playlistName, playlistDescrip)
+
+print()
+e = input("Press any button to close")
+#pyinstaller main.py --name YoutubeToSpotify --add-data config.cfg;.
